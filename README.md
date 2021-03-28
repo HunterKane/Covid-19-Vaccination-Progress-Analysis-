@@ -1,11 +1,14 @@
 # Covid-19-Vaccination-Progress-Analysis-
 
-## Motivation
-Track COVID-19 vaccination in the World, answer instantly to your questions:  
+## Inspiration
 
-- Which country is using what vaccine? 
-- In which country the vaccination programme is more advanced? 
+- What vaccines are used and in which countries?
+- What country is vaccinated more people?
+- What country is vaccinated a larger percent from its population?
+- In which country the vaccination programme is more advanced?
 - Where are vaccinated more people per day? But in terms of percent from entire population ?
+- In which month the number of people who vaccinated is most?
+- How many people are fully vaccinated (country wise)?
 
 
 ## Dictionary 
